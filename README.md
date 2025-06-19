@@ -1,13 +1,26 @@
-👋 Hi,I'm Ravi Patneedi
+👋 Hi, I'm Ravi Patneedi
 =====================================================================================================================================
 
-Working as Java Developer
---------------
+Software Engineer 💻
+=====================================================================================================================================
 
-I'm a Software Engineer with 4+ years of experience building scalable systems, intuitive interfaces, and data-driven solutions across industries like Banking, Wealth & AI.
+I'm a passionate Backend Developer with 4+ years of experience, currently working as a Systems Engineer at TCS. My expertise lies in building scalable APIs, automating backend processes, and optimizing database performance in the banking domain. I thrive in agile teams, love solving complex problems, and continuously seek opportunities to learn and grow in modern backend technologies.
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [ravikumarpatneedi@gmail.com](mailto:ravikumarpatneedi@gmail.com)
+
+**🧠 What I Do** 
+* 🔧 Full-Stack Engineering: React, React Native, Node.js, Spring Boot
+* 🌐 Backend Systems: REST, API, SQL, PostgreSQL, 
+* ☁️ DevOps & Cloud: Jekins, AWS, Docker, CI/CD pipelines
+* 📊 Reporting: Jasper Reports, iReport, Tibco JasperSoft
+
+**📚 Education**
+* B.Tech in Mechanical Engineering ⚙️ – Pragati Engineering College, Kakinada
+
+**📫 Let's Connect**
+* 💼 [LinkedIn](https://www.linkedin.com/in/patneedi-ravi-kumar/)
+* 📧 [Email](mailto:ravikumarpatneedi@gmail.com)
 
 ### Skills
 
